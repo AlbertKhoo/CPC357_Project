@@ -8,7 +8,7 @@
 #include "VOneMqttClient.h"
 
 // --- DEVICE ID ---
-const char* MyDeviceID = "ac4840e2-6047-4198-a0a4-2243519125e7"; 
+const char* MyDeviceID = "c40a2bca-7ec3-4825-acbc-ddb2b5d27e75"; 
 
 // --- PIN DEFINITIONS ---
 #define TRIG_PIN    5   
